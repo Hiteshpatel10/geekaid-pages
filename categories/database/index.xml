@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Geared to aid the geek</title>
+    <link>https://hugo-theme-gruvbox.schnerring.net/categories/database/</link>
+    <description>Recent content in Database on Geared to aid the geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Thu, 24 Nov 2022 05:59:42 +0000</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/categories/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing the right database for your Flutter application</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/choosing-the-right-database-for-your-flutter-application/</link>
+      <pubDate>Thu, 24 Nov 2022 05:59:42 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/choosing-the-right-database-for-your-flutter-application/</guid>
+      <description>Data is an essential aspect of your application. Choosing the right database for your application according to your requirements is very important. The success of the application relies on how millions of queries handle efficiently and flawlessly in real time by the database.
+If you are looking for the right database for your app then you are reading the right articles. Flutter which is a UI software development kit created by Google has a wide variety of databases available to choose from.</description>
+    </item>
+    
+    <item>
+      <title>How to create bottom sheet in Flutter</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-create-bottom-sheet-in-flutter/</link>
+      <pubDate>Thu, 24 Nov 2022 05:59:42 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-create-bottom-sheet-in-flutter/</guid>
+      <description>In this blog, we will learn about the modal bottom sheet widget in Flutter. We will learn about the bottom sheet and where you should use them. We will also implement the Modal Bottom Sheet Widget and later we will modify it to make it scrollable.
+For those of you who are trying to remember when was the last time you use to interact with the bottom sheet, The share button present in android opens up a drawer from the bottom that allows the user to select the way to share is an example of a bottom sheet.</description>
+    </item>
+    
+  </channel>
+</rss>

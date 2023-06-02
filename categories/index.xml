@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Geared to aid the geek</title>
+    <link>https://hugo-theme-gruvbox.schnerring.net/categories/</link>
+    <description>Recent content in Categories on Geared to aid the geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Wed, 01 Feb 2023 04:48:39 +0000</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DSA</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/categories/dsa/</link>
+      <pubDate>Wed, 01 Feb 2023 04:48:39 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/categories/dsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LinkedList</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/categories/linkedlist/</link>
+      <pubDate>Wed, 01 Feb 2023 04:48:39 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/categories/linkedlist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>String</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/categories/string/</link>
+      <pubDate>Tue, 31 Jan 2023 04:40:45 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/categories/string/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backend-as-a-Service</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/categories/backend-as-a-service/</link>
+      <pubDate>Fri, 13 Jan 2023 16:26:09 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/categories/backend-as-a-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/categories/flutter/</link>
+      <pubDate>Sat, 10 Dec 2022 03:52:51 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/categories/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/categories/database/</link>
+      <pubDate>Thu, 24 Nov 2022 05:59:42 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/categories/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/categories/firebase/</link>
+      <pubDate>Thu, 24 Nov 2022 05:59:42 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/categories/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/categories/android/</link>
+      <pubDate>Fri, 28 Oct 2022 10:25:12 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/categories/android/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Geared to aid the geek</title>
+    <link>https://hugo-theme-gruvbox.schnerring.net/tags/android/</link>
+    <description>Recent content in Android on Geared to aid the geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Fri, 28 Oct 2022 10:25:12 +0000</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to connect android studio with firebase.</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-connect-android-studio-with-firebase/</link>
+      <pubDate>Fri, 28 Oct 2022 10:25:12 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-connect-android-studio-with-firebase/</guid>
+      <description>I am sure you have started your journey of learning android development and then this mountain of problems came, but do not worry I help you out just follow the steps and follow my lead.
+The first step is to make an account on Firebase. Now you have made one let&amp;rsquo;s get started.
+Open the ram eater, oops! I mean android studio and Firebase in the browser in the Firebase</description>
+    </item>
+    
+    <item>
+      <title>How to use Date Picker in Jetpack Compose</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-use-date-picker-in-jetpack-compose/</link>
+      <pubDate>Fri, 21 Oct 2022 11:32:04 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-use-date-picker-in-jetpack-compose/</guid>
+      <description>Few Days ago I was working on my project and at that moment I came across a problem which how can I use date picker in compose.
+So, google it and find and came across solution which fine and you can modify it according to your needs in your project.
+package com.geekaid.sdejobs.ui.screens import android.app.DatePickerDialog import android.widget.DatePicker import androidx.compose.material.OutlinedButton import androidx.compose.material.Text import androidx.compose.runtime.* import androidx.compose.ui.platform.LocalContext import java.util.* @Composable fun Calender() { var datePicked by remember { mutableStateOf(&amp;#34;1&amp;#34;) } val context = LocalContext.</description>
+    </item>
+    
+  </channel>
+</rss>

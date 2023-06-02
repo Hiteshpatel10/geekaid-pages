@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Geared to aid the geek</title>
+    <link>https://hugo-theme-gruvbox.schnerring.net/blog/</link>
+    <description>Recent content in Blogs on Geared to aid the geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Wed, 01 Feb 2023 04:48:39 +0000</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Middle of the Linked List - Leetcode #876</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/middle-of-the-linked-list-leetcode-876/</link>
+      <pubDate>Wed, 01 Feb 2023 04:48:39 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/middle-of-the-linked-list-leetcode-876/</guid>
+      <description>[leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) Given the head of a singly linked list, return the middle node of the linked list.
+If there are two middle nodes, return the second middle node.
+problem links: leetcode, geekforgeeks.
+Example 1:
+Input: head = [1,2,3,4,5] Output: [3,4,5] Explanation: The middle node of the list is node 3.
+Example 2:
+Input: head = [1,2,3,4,5,6] Output: [4,5,6] Explanation: Since the list has two middle nodes with values 3 and 4, we return the second one.</description>
+    </item>
+    
+    <item>
+      <title>Sort Characters By Frequency - Leetcode #451</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/sort-characters-by-frequency-leetcode-451/</link>
+      <pubDate>Tue, 31 Jan 2023 04:40:45 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/sort-characters-by-frequency-leetcode-451/</guid>
+      <description>Given a string s, sort it in decreasing order based on the frequency of the characters. The frequency of a character is the number of times it appears in the string.
+Return the sorted string. If there are multiple answers, return any of them.
+problem links: leetcode, geekforgeeks.
+Example 1:
+Input: s = &amp;#34;tree&amp;#34; Output: &amp;#34;eert&amp;#34; Explanation: &amp;rsquo;e&amp;rsquo; appears twice while &amp;lsquo;r&amp;rsquo; and &amp;rsquo;t&amp;rsquo; both appear once. So &amp;rsquo;e&amp;rsquo; must appear before both &amp;lsquo;r&amp;rsquo; and &amp;rsquo;t&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Isomorphic Strings - Leetcode #205</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/isomorphic-strings-leetocde-205/</link>
+      <pubDate>Mon, 30 Jan 2023 05:10:39 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/isomorphic-strings-leetocde-205/</guid>
+      <description>problem links: leetcode, geekforgeeks.
+Problem Statement# Given two strings s and t, determine if they are isomorphic.
+Two strings s and t are isomorphic if the characters in s can be replaced to get t.
+All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character, but a character may map to itself.
+Example 1:</description>
+    </item>
+    
+    <item>
+      <title>Largest Odd Number in String - Leetcode #1903</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/largest-odd-number-in-string-leetcode-1903/</link>
+      <pubDate>Mon, 30 Jan 2023 04:41:46 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/largest-odd-number-in-string-leetcode-1903/</guid>
+      <description>problem links: leetcode, geekforgeeks.
+Problem Statement# You are given a string num, representing a large integer. Return the largest-valued odd integer (as a string) that is a non-empty substring of num, or an empty string &amp;quot;&amp;quot; if no odd integer exists.
+A substring is a contiguous sequence of characters within a string.
+Example 1:
+Input: num = &amp;#34;52&amp;#34; Output: &amp;#34;5&amp;#34; Explanation: The only non-empty substrings are &amp;ldquo;5&amp;rdquo;, &amp;ldquo;2&amp;rdquo;, and &amp;ldquo;52&amp;rdquo;. &amp;ldquo;5&amp;rdquo; is the only odd number.</description>
+    </item>
+    
+    <item>
+      <title>Longest Common Prefix - Leetcode #14</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/longest-common-prefix/</link>
+      <pubDate>Sun, 29 Jan 2023 07:54:56 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/longest-common-prefix/</guid>
+      <description>Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string &amp;quot;&amp;quot;.
+Problem explanations:
+The questions ask us to find the longest common prefix, prefix is a word that can be added at the beginning of the string to form a new word. We have given a vector of strings from which we have to find the prefix and we have to return a string of the longest common prefix.</description>
+    </item>
+    
+    <item>
+      <title>Appwrite Firebase open source alternative is here</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/baas/appwrite-firebase-open-source-alternative/</link>
+      <pubDate>Fri, 13 Jan 2023 16:26:09 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/baas/appwrite-firebase-open-source-alternative/</guid>
+      <description>Appwrite is a platform for building and deploying web and mobile applications more quickly and efficiently. Appwrite is an open-source Firebase alternative that provides services like authentication, authorization, storage, and database (No-SQL). Appwrite is designed to be flexible and scalable, you need to host it yourself, unlike Supabase which provides a managed host option.
+Appwrite APIs# REST# Appwrite exposes a REST API that developers can use to access various functions and services on the Appwrite server.</description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Supabase: The Open-Source Alternative to Firebase</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/baas/supabase/</link>
+      <pubDate>Sun, 25 Dec 2022 10:26:08 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/baas/supabase/</guid>
+      <description>What is Supabase?# Supabase is an open-source platform that provides Backend-as-a-Service (BaaS). Supabase provides SDK for platforms like web, and mobile (Android &amp;amp; IOS) that helps you speed up the development process and manage all the services you will need for the development.
+Supabase is developed to help developers to set up their backends in minutes, living up to their slogan &amp;ldquo;Build in a weekend, scale to millions&amp;rdquo;.
+Supabase vs Firebase# Supabase is marketed as &amp;ldquo;Supabase is an open-source Firebase alternative&amp;rdquo; let&amp;rsquo;s see how true it is.</description>
+    </item>
+    
+    <item>
+      <title>Flutter Navigation – Named Routes, onGenerateRoute</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/flutter-navigation-named-routes-ongenerateroute/</link>
+      <pubDate>Sat, 10 Dec 2022 03:52:51 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/flutter-navigation-named-routes-ongenerateroute/</guid>
+      <description>Modern mobile applications can contain many screens or routes and navigate between the pages sets the workflow of the application. Because of navigation a user can navigate from their home screen to another. Handling the navigation is known as routing.
+Flutter provides a routing class using which we can set up navigation in our app. But using the navigation directly into the code is not advisable you need to abstract the navigation from the UI.</description>
+    </item>
+    
+    <item>
+      <title>Choosing the right database for your Flutter application</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/choosing-the-right-database-for-your-flutter-application/</link>
+      <pubDate>Thu, 24 Nov 2022 05:59:42 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/choosing-the-right-database-for-your-flutter-application/</guid>
+      <description>Data is an essential aspect of your application. Choosing the right database for your application according to your requirements is very important. The success of the application relies on how millions of queries handle efficiently and flawlessly in real time by the database.
+If you are looking for the right database for your app then you are reading the right articles. Flutter which is a UI software development kit created by Google has a wide variety of databases available to choose from.</description>
+    </item>
+    
+    <item>
+      <title>How to create bottom sheet in Flutter</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-create-bottom-sheet-in-flutter/</link>
+      <pubDate>Thu, 24 Nov 2022 05:59:42 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-create-bottom-sheet-in-flutter/</guid>
+      <description>In this blog, we will learn about the modal bottom sheet widget in Flutter. We will learn about the bottom sheet and where you should use them. We will also implement the Modal Bottom Sheet Widget and later we will modify it to make it scrollable.
+For those of you who are trying to remember when was the last time you use to interact with the bottom sheet, The share button present in android opens up a drawer from the bottom that allows the user to select the way to share is an example of a bottom sheet.</description>
+    </item>
+    
+    <item>
+      <title>Know the Widgets in Flutter: Scaffold</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/know-the-widgets-in-flutter-scaffold/</link>
+      <pubDate>Mon, 07 Nov 2022 07:47:36 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/know-the-widgets-in-flutter-scaffold/</guid>
+      <description>You are reading this post means you have just started learning flutter, and now every tutorial or codelab you open you came across a widget named Scaffold. Do not worry after reading this blog post you will have a clear understanding of Scaffold.
+If you have any problem setting up your flutter development environment refer to my flutter installation post where you can find a step-by-step guide.
+Let&amp;rsquo;s get started.</description>
+    </item>
+    
+    <item>
+      <title>How to make the Bottom Navigation Bar in the Flutter</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-make-bottom-navigation-bar-in-flutter/</link>
+      <pubDate>Tue, 01 Nov 2022 12:55:03 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-make-bottom-navigation-bar-in-flutter/</guid>
+      <description>Hey, there I hope your journey to learn flutter is going smoothly, and now you are stuck with how you can add the BottomNavigtionBar widget in your application.
+Here I am by the end of the post you will be able to create a bottom navigation bar for your application and tweak the look and feel of the bar according to your preference.
+What we will cover
+What is Bottom Navigation Bar in Flutter?</description>
+    </item>
+    
+    <item>
+      <title>How to set up your flutter development environment</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-setup-flutter-dev-environment-in-linux-using-android-studio/</link>
+      <pubDate>Tue, 01 Nov 2022 12:55:03 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-setup-flutter-dev-environment-in-linux-using-android-studio/</guid>
+      <description>&amp;ldquo;For the best return on your money, pour your purse into your head&amp;rdquo;
+Hurry! now you have decided to learn flutter and it will be a good decision. Your journey will be full of hurdles but the whole community and I are here to help you out so relax.
+The first hurdle you are facing is how to set up your development environment, Let&amp;rsquo;s get started.
+Open docs.flutter.dev and select your operating system.</description>
+    </item>
+    
+    <item>
+      <title>How to connect android studio with firebase.</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-connect-android-studio-with-firebase/</link>
+      <pubDate>Fri, 28 Oct 2022 10:25:12 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-connect-android-studio-with-firebase/</guid>
+      <description>I am sure you have started your journey of learning android development and then this mountain of problems came, but do not worry I help you out just follow the steps and follow my lead.
+The first step is to make an account on Firebase. Now you have made one let&amp;rsquo;s get started.
+Open the ram eater, oops! I mean android studio and Firebase in the browser in the Firebase</description>
+    </item>
+    
+    <item>
+      <title>How to use Date Picker in Jetpack Compose</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-use-date-picker-in-jetpack-compose/</link>
+      <pubDate>Fri, 21 Oct 2022 11:32:04 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-use-date-picker-in-jetpack-compose/</guid>
+      <description>Few Days ago I was working on my project and at that moment I came across a problem which how can I use date picker in compose.
+So, google it and find and came across solution which fine and you can modify it according to your needs in your project.
+package com.geekaid.sdejobs.ui.screens import android.app.DatePickerDialog import android.widget.DatePicker import androidx.compose.material.OutlinedButton import androidx.compose.material.Text import androidx.compose.runtime.* import androidx.compose.ui.platform.LocalContext import java.util.* @Composable fun Calender() { var datePicked by remember { mutableStateOf(&amp;#34;1&amp;#34;) } val context = LocalContext.</description>
+    </item>
+    
+  </channel>
+</rss>

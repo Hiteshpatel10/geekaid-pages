@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DSA on Geared to aid the geek</title>
+    <link>https://hugo-theme-gruvbox.schnerring.net/categories/dsa/</link>
+    <description>Recent content in DSA on Geared to aid the geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Wed, 01 Feb 2023 04:48:39 +0000</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/categories/dsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Middle of the Linked List - Leetcode #876</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/middle-of-the-linked-list-leetcode-876/</link>
+      <pubDate>Wed, 01 Feb 2023 04:48:39 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/middle-of-the-linked-list-leetcode-876/</guid>
+      <description>[leetcode](https://leetcode.com/problems/middle-of-the-linked-list/) Given the head of a singly linked list, return the middle node of the linked list.
+If there are two middle nodes, return the second middle node.
+problem links: leetcode, geekforgeeks.
+Example 1:
+Input: head = [1,2,3,4,5] Output: [3,4,5] Explanation: The middle node of the list is node 3.
+Example 2:
+Input: head = [1,2,3,4,5,6] Output: [4,5,6] Explanation: Since the list has two middle nodes with values 3 and 4, we return the second one.</description>
+    </item>
+    
+    <item>
+      <title>Sort Characters By Frequency - Leetcode #451</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/sort-characters-by-frequency-leetcode-451/</link>
+      <pubDate>Tue, 31 Jan 2023 04:40:45 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/sort-characters-by-frequency-leetcode-451/</guid>
+      <description>Given a string s, sort it in decreasing order based on the frequency of the characters. The frequency of a character is the number of times it appears in the string.
+Return the sorted string. If there are multiple answers, return any of them.
+problem links: leetcode, geekforgeeks.
+Example 1:
+Input: s = &amp;#34;tree&amp;#34; Output: &amp;#34;eert&amp;#34; Explanation: &amp;rsquo;e&amp;rsquo; appears twice while &amp;lsquo;r&amp;rsquo; and &amp;rsquo;t&amp;rsquo; both appear once. So &amp;rsquo;e&amp;rsquo; must appear before both &amp;lsquo;r&amp;rsquo; and &amp;rsquo;t&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Isomorphic Strings - Leetcode #205</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/isomorphic-strings-leetocde-205/</link>
+      <pubDate>Mon, 30 Jan 2023 05:10:39 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/isomorphic-strings-leetocde-205/</guid>
+      <description>problem links: leetcode, geekforgeeks.
+Problem Statement# Given two strings s and t, determine if they are isomorphic.
+Two strings s and t are isomorphic if the characters in s can be replaced to get t.
+All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character, but a character may map to itself.
+Example 1:</description>
+    </item>
+    
+    <item>
+      <title>Largest Odd Number in String - Leetcode #1903</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/largest-odd-number-in-string-leetcode-1903/</link>
+      <pubDate>Mon, 30 Jan 2023 04:41:46 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/largest-odd-number-in-string-leetcode-1903/</guid>
+      <description>problem links: leetcode, geekforgeeks.
+Problem Statement# You are given a string num, representing a large integer. Return the largest-valued odd integer (as a string) that is a non-empty substring of num, or an empty string &amp;quot;&amp;quot; if no odd integer exists.
+A substring is a contiguous sequence of characters within a string.
+Example 1:
+Input: num = &amp;#34;52&amp;#34; Output: &amp;#34;5&amp;#34; Explanation: The only non-empty substrings are &amp;ldquo;5&amp;rdquo;, &amp;ldquo;2&amp;rdquo;, and &amp;ldquo;52&amp;rdquo;. &amp;ldquo;5&amp;rdquo; is the only odd number.</description>
+    </item>
+    
+    <item>
+      <title>Longest Common Prefix - Leetcode #14</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/longest-common-prefix/</link>
+      <pubDate>Sun, 29 Jan 2023 07:54:56 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/dsa/longest-common-prefix/</guid>
+      <description>Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string &amp;quot;&amp;quot;.
+Problem explanations:
+The questions ask us to find the longest common prefix, prefix is a word that can be added at the beginning of the string to form a new word. We have given a vector of strings from which we have to find the prefix and we have to return a string of the longest common prefix.</description>
+    </item>
+    
+  </channel>
+</rss>

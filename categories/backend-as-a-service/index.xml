@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend-as-a-Service on Geared to aid the geek</title>
+    <link>https://hugo-theme-gruvbox.schnerring.net/categories/backend-as-a-service/</link>
+    <description>Recent content in Backend-as-a-Service on Geared to aid the geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Fri, 13 Jan 2023 16:26:09 +0000</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/categories/backend-as-a-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appwrite Firebase open source alternative is here</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/baas/appwrite-firebase-open-source-alternative/</link>
+      <pubDate>Fri, 13 Jan 2023 16:26:09 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/baas/appwrite-firebase-open-source-alternative/</guid>
+      <description>Appwrite is a platform for building and deploying web and mobile applications more quickly and efficiently. Appwrite is an open-source Firebase alternative that provides services like authentication, authorization, storage, and database (No-SQL). Appwrite is designed to be flexible and scalable, you need to host it yourself, unlike Supabase which provides a managed host option.
+Appwrite APIs# REST# Appwrite exposes a REST API that developers can use to access various functions and services on the Appwrite server.</description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Supabase: The Open-Source Alternative to Firebase</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/baas/supabase/</link>
+      <pubDate>Sun, 25 Dec 2022 10:26:08 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/baas/supabase/</guid>
+      <description>What is Supabase?# Supabase is an open-source platform that provides Backend-as-a-Service (BaaS). Supabase provides SDK for platforms like web, and mobile (Android &amp;amp; IOS) that helps you speed up the development process and manage all the services you will need for the development.
+Supabase is developed to help developers to set up their backends in minutes, living up to their slogan &amp;ldquo;Build in a weekend, scale to millions&amp;rdquo;.
+Supabase vs Firebase# Supabase is marketed as &amp;ldquo;Supabase is an open-source Firebase alternative&amp;rdquo; let&amp;rsquo;s see how true it is.</description>
+    </item>
+    
+  </channel>
+</rss>

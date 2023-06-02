@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firebase on Geared to aid the geek</title>
+    <link>https://hugo-theme-gruvbox.schnerring.net/tags/firebase/</link>
+    <description>Recent content in Firebase on Geared to aid the geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Thu, 24 Nov 2022 05:59:42 +0000</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create bottom sheet in Flutter</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-create-bottom-sheet-in-flutter/</link>
+      <pubDate>Thu, 24 Nov 2022 05:59:42 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-create-bottom-sheet-in-flutter/</guid>
+      <description>In this blog, we will learn about the modal bottom sheet widget in Flutter. We will learn about the bottom sheet and where you should use them. We will also implement the Modal Bottom Sheet Widget and later we will modify it to make it scrollable.
+For those of you who are trying to remember when was the last time you use to interact with the bottom sheet, The share button present in android opens up a drawer from the bottom that allows the user to select the way to share is an example of a bottom sheet.</description>
+    </item>
+    
+    <item>
+      <title>How to connect android studio with firebase.</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-connect-android-studio-with-firebase/</link>
+      <pubDate>Fri, 28 Oct 2022 10:25:12 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/android/how-to-connect-android-studio-with-firebase/</guid>
+      <description>I am sure you have started your journey of learning android development and then this mountain of problems came, but do not worry I help you out just follow the steps and follow my lead.
+The first step is to make an account on Firebase. Now you have made one let&amp;rsquo;s get started.
+Open the ram eater, oops! I mean android studio and Firebase in the browser in the Firebase</description>
+    </item>
+    
+  </channel>
+</rss>

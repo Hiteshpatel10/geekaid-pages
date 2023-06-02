@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flutter on Geared to aid the geek</title>
+    <link>https://hugo-theme-gruvbox.schnerring.net/tags/flutter/</link>
+    <description>Recent content in Flutter on Geared to aid the geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021</copyright>
+    <lastBuildDate>Sat, 10 Dec 2022 03:52:51 +0000</lastBuildDate><atom:link href="https://hugo-theme-gruvbox.schnerring.net/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter Navigation – Named Routes, onGenerateRoute</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/flutter-navigation-named-routes-ongenerateroute/</link>
+      <pubDate>Sat, 10 Dec 2022 03:52:51 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/flutter-navigation-named-routes-ongenerateroute/</guid>
+      <description>Modern mobile applications can contain many screens or routes and navigate between the pages sets the workflow of the application. Because of navigation a user can navigate from their home screen to another. Handling the navigation is known as routing.
+Flutter provides a routing class using which we can set up navigation in our app. But using the navigation directly into the code is not advisable you need to abstract the navigation from the UI.</description>
+    </item>
+    
+    <item>
+      <title>Choosing the right database for your Flutter application</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/choosing-the-right-database-for-your-flutter-application/</link>
+      <pubDate>Thu, 24 Nov 2022 05:59:42 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/choosing-the-right-database-for-your-flutter-application/</guid>
+      <description>Data is an essential aspect of your application. Choosing the right database for your application according to your requirements is very important. The success of the application relies on how millions of queries handle efficiently and flawlessly in real time by the database.
+If you are looking for the right database for your app then you are reading the right articles. Flutter which is a UI software development kit created by Google has a wide variety of databases available to choose from.</description>
+    </item>
+    
+    <item>
+      <title>Know the Widgets in Flutter: Scaffold</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/know-the-widgets-in-flutter-scaffold/</link>
+      <pubDate>Mon, 07 Nov 2022 07:47:36 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/know-the-widgets-in-flutter-scaffold/</guid>
+      <description>You are reading this post means you have just started learning flutter, and now every tutorial or codelab you open you came across a widget named Scaffold. Do not worry after reading this blog post you will have a clear understanding of Scaffold.
+If you have any problem setting up your flutter development environment refer to my flutter installation post where you can find a step-by-step guide.
+Let&amp;rsquo;s get started.</description>
+    </item>
+    
+    <item>
+      <title>How to make the Bottom Navigation Bar in the Flutter</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-make-bottom-navigation-bar-in-flutter/</link>
+      <pubDate>Tue, 01 Nov 2022 12:55:03 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-make-bottom-navigation-bar-in-flutter/</guid>
+      <description>Hey, there I hope your journey to learn flutter is going smoothly, and now you are stuck with how you can add the BottomNavigtionBar widget in your application.
+Here I am by the end of the post you will be able to create a bottom navigation bar for your application and tweak the look and feel of the bar according to your preference.
+What we will cover
+What is Bottom Navigation Bar in Flutter?</description>
+    </item>
+    
+    <item>
+      <title>How to set up your flutter development environment</title>
+      <link>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-setup-flutter-dev-environment-in-linux-using-android-studio/</link>
+      <pubDate>Tue, 01 Nov 2022 12:55:03 +0000</pubDate>
+      
+      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/flutter/how-to-setup-flutter-dev-environment-in-linux-using-android-studio/</guid>
+      <description>&amp;ldquo;For the best return on your money, pour your purse into your head&amp;rdquo;
+Hurry! now you have decided to learn flutter and it will be a good decision. Your journey will be full of hurdles but the whole community and I are here to help you out so relax.
+The first hurdle you are facing is how to set up your development environment, Let&amp;rsquo;s get started.
+Open docs.flutter.dev and select your operating system.</description>
+    </item>
+    
+  </channel>
+</rss>
